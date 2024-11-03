@@ -12,7 +12,7 @@
   <meta name="keywords" content="ConfiguroWeb">
   <meta name="author" content="ConfiguroWeb">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/uploadImage/Logo/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/uploadImage/Logo/favicon2.png">
   <?php
 
   include('./constant/connect.php');

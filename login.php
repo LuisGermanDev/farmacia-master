@@ -107,13 +107,13 @@ if ($_POST) {
 <div id="main-wrapper">
   <div class="unix-login">
 
-    <div class="container-fluid" style="background-image: url('assets/uploadImage/Logo/banner3.jpg');
+    <div class="container-fluid" style="background-image: url('assets/uploadImage/Logo/banner4.jpg');
  background-color: #ffffff;background-size:cover">
       <div class="row ">
         <div class="col-md-4">
           <div class="login-content ">
             <div class="login-form">
-              <center><img src="./assets/uploadImage/Logo/logo.png" style="width: 300px;"></center><br>
+              <center><img src="./assets/uploadImage/Logo/logo2.png" style="width: 300px;"></center><br>
               <form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="post" id="loginForm" class="row">
                 <div class="form-group col-md-12">
                   <label lass="col-sm-3 control-label">Correo</label>

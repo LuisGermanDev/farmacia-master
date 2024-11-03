@@ -97,10 +97,12 @@ include('./constant/connect.php');
     <!-- Grid container -->
 
     <!-- Copyright -->
-    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-        Para más desarrollos accede a
-        <a class="text-white" href="https://www.configuroweb.com/">ConfiguroWeb</a>
-    </div>
+    <div class="text-center p-3" style="position: relative; background-color: rgba(0, 0, 0, 0.2); padding: 20px; text-align: center;">
+    "Su salud, nuestra prioridad. En Farmacia Nuevo Amanecer, estamos aquí para cuidarte siempre."
+    <!-- Cuadrado que sobresale debajo -->
+    <div style="content: ''; position: absolute; bottom: -20px; left: 0; width: 100%; height: 40px; background-color: rgba(0, 0, 0, 0.4); z-index: -1;"></div>
+</div>
+
     <!-- Copyright -->
 </footer>
 <!--/ Copy this code to have a working example -->
